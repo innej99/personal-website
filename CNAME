@@ -1,6 +1,1 @@
-cd /Jennifer Munoz/base/dir
-touch CNAME
-echo 'jennifermunoz.org' > CNAME
-git add CNAME
-git commit -m 'Added CNAME'
-git push origin master
+jennifermunoz.org
