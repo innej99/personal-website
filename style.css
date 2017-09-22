@@ -1,9 +1,11 @@
 body {
-  background-image: url("C0001.00_07_16_04.Still017.jpg");
   font-family: Impact;
 }
 
-h1 {
+#name {
   text-align: center;
   font-size: 100px;
+}
+#picture {
+  background-image: url("C0001.00_07_16_04.Still017.jpg");
 }
