@@ -1,5 +1,6 @@
 body {
   font-family: Impact;
+  margin: 0px;
 }
 
 #name {
@@ -7,7 +8,7 @@ body {
   font-size: 20px;
 }
 #picture {
-  height: 100px;
+  height: 500px;
   width: 100%;
   background-image: url("C0001.00_07_16_04.Still017.jpg");
 }
