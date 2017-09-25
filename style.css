@@ -14,14 +14,20 @@ body {
 
 #social_media {
   display: inline-block;
+  text-decoration: none;
 }
 
 .icons{
   width: 50px;
   height: 50px;
+  text-decoration: none;
 }
-/*#picture {
+#picture {
   height: 500px;
   width: 100%;
+  margin-left: 25%;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-image: url("https://mail.google.com/mail/u/0/?ui=2&ik=32d7802cb7&view=fimg&th=15eb80be37ee1826&attid=0.1.1&disp=emb&attbid=ANGjdJ8Ub6Nvh2q1Ckwsf5T22xEwY2FeMnf1hwcHYdYmNo0wKgd-hf-dTDw9UlPx_zSmj1IZYcC3BTVOLmypprDyQfl6aQ0qF4M_24n0pAjT4OfYVAaJzyaj143gz38&sz=s0-l75-ft&ats=1506326620255&rm=15eb80be37ee1826&zw&atsh=1");
 
-}*/
+}
