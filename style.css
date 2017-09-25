@@ -1,14 +1,27 @@
 body {
-  font-family: Impact;
+  font-family: "Century Gothic";
   margin: 0px;
+  background-color: lightblue;
 }
 
+#me {
+  text-align: center;
+}
 #name {
   text-align: center;
   font-size: 20px;
 }
-#picture {
+
+#social_media {
+  display: inline-block;
+}
+
+.icons{
+  width: 50px;
+  height: 50px;
+}
+/*#picture {
   height: 500px;
   width: 100%;
-  background-image: url("C0001.00_07_16_04.Still017.jpg");
-}
+
+}*/
