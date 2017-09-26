@@ -1,8 +1,12 @@
 body {
-  font-family: "Century Gothic";
+  font-family: "Trebuchet MS";
   margin: 0;
-  background-color: lightblue;
+  background-image: url("https://cdn.pixabay.com/photo/2015/01/15/21/04/moon-600789_960_720.jpg");
   padding: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
 }
 
 .parallax {
@@ -20,6 +24,9 @@ body {
     background-size: cover;
 }
 
+.space {
+  height: 100px;
+}
 
 #me {
   text-align: center;
@@ -32,19 +39,6 @@ body {
 #social_media {
   display: inline-block;
   text-decoration: none;
-}
-
-#resume:link {
-  text-decoration: none;
-}
-#resume:visited {
-  color: black;
-}
-#resume:hover {
-  color: black;
-}
-#resume:active {
-  color: black;
 }
 
 .icons{
